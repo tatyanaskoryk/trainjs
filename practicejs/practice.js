@@ -1,6 +1,2 @@
-console.log(5);
-function greet(name) {
-  return `Ласкаво просимо ${name}.`;
-}
-console.log(greet("Манго")); 
-console.log(greet); 
+const x = 2;
+  console.log(x);
